@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="arrayDemo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/zuoyu/Document/C++ _ Practice/arrayDemo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/zuoyu/Document/C++ _ Practice/arrayDemo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arrayDemo">
+				<Option output="/home/zuoyu/Document/C++ _ Practice/arrayDemo/cmake-build-debug/arrayDemo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zuoyu/Document/C++ _ Practice/arrayDemo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.3.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.3.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 arrayDemo"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arrayDemo/fast">
+				<Option output="/home/zuoyu/Document/C++ _ Practice/arrayDemo/cmake-build-debug/arrayDemo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zuoyu/Document/C++ _ Practice/arrayDemo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.3.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.3.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 arrayDemo/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/zuoyu/Document/C++ _ Practice/arrayDemo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zuoyu/Document/C++\ _\ Practice/arrayDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/zuoyu/Document/C++ _ Practice/arrayDemo/array.c">
+			<Option target="arrayDemo"/>
+		</Unit>
+		<Unit filename="/home/zuoyu/Document/C++ _ Practice/arrayDemo/array.h">
+			<Option target="arrayDemo"/>
+		</Unit>
+		<Unit filename="/home/zuoyu/Document/C++ _ Practice/arrayDemo/linkedList.c">
+			<Option target="arrayDemo"/>
+		</Unit>
+		<Unit filename="/home/zuoyu/Document/C++ _ Practice/arrayDemo/linkedList.h">
+			<Option target="arrayDemo"/>
+		</Unit>
+		<Unit filename="/home/zuoyu/Document/C++ _ Practice/arrayDemo/main.c">
+			<Option target="arrayDemo"/>
+		</Unit>
+		<Unit filename="/home/zuoyu/Document/C++ _ Practice/arrayDemo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

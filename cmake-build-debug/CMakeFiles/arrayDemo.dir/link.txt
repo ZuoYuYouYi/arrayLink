@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/arrayDemo.dir/main.c.o CMakeFiles/arrayDemo.dir/array.c.o CMakeFiles/arrayDemo.dir/linkedList.c.o  -o arrayDemo 

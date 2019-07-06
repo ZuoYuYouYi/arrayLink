@@ -1,0 +1,3 @@
+/home/zuoyu/Document/C++ _ Practice/arrayDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zuoyu/Document/C++ _ Practice/arrayDemo/cmake-build-debug/CMakeFiles/arrayDemo.dir
+/home/zuoyu/Document/C++ _ Practice/arrayDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
